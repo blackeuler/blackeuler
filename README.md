@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [stoneConnect](https://github.com/blackeuler/stoneConnect)
+- 🌱 I’m currently learning `haskell` `Common Lisp` `programming synthesis`
+- 👯 I’m looking to collaborate on projects helping underrepresented populations break into tech
+
+- 💬 Ask me about Monoids
+- 📫 How to reach me: @blackeuler on everything
+- 😄 Pronouns: He/Him/His
