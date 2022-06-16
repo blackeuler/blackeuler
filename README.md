@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [stoneConnect](https://github.com/blackeuler/stoneConnect)
+- 🔭 I’m currently working on [vidalvines](https://www.vidalvines.com/)
 - 🌱 I’m currently learning `haskell` `Common Lisp` `programming synthesis`
 - 👯 I’m looking to collaborate on projects helping underrepresented populations break into tech
 
